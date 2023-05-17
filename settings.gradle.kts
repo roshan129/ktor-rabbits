@@ -1,0 +1,1 @@
+rootProject.name = "com.roshanadke.ktor-rabbits"
